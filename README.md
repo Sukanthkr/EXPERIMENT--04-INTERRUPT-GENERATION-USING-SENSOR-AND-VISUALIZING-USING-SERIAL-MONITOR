@@ -1,10 +1,10 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 22.09.25
+###  DATE: 20.9.25
 
 ###  NAME: SUKANTH KR
-###  ROLL NO :212224040338
-###  DEPARTMENT: B.E CSE
+###  ROLL NO : 212224040338
+###  DEPARTMENT:  CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
@@ -166,12 +166,12 @@ PUTCHAR_PROTOTYPE{
 
 
 ## Output screen shots of serial port utility   :
- ![WhatsApp Image 2025-09-20 at 15 34 38_ab0feae3](https://github.com/user-attachments/assets/ed99c85d-fc99-49f2-a393-9ed983d90828)
-
  
+ ![WhatsApp Image 2025-09-20 at 15 34 38_de7b8cc1](https://github.com/user-attachments/assets/003d36b1-c06d-4ecb-aa24-3d4da183e29e)
+
  ## Circuit board :
  
- <img width="645" height="765" alt="491867363-54c94bd0-e141-4b67-ace7-f71fc164be8e" src="https://github.com/user-attachments/assets/be6a769e-2554-4503-91bc-3b48f841fc6c" />
+ <img width="645" height="765" alt="491867363-54c94bd0-e141-4b67-ace7-f71fc164be8e" src="https://github.com/user-attachments/assets/bc8cf908-182b-4325-9d77-659c399a3ecf" />
 
  
 ## Result :
